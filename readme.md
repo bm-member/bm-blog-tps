@@ -9,4 +9,5 @@
     - In Window `copy .env.example .env` and set database connection
 - Run `php artisan key:generate` to generate the app key
 - Run `php artisan migrate --seed` to create table and to seed data
+- Run `php artisan serve` and will running in `localhost:8000`
 - Done. 
